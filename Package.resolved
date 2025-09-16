@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "TDLibFramework",
-        "repositoryURL": "https://github.com/Swiftgram/TDLibFramework",
+        "repositoryURL": "https://github.com/rodrig0c/TDLibFramework",
         "state": {
           "branch": null,
           "revision": "8d4f84b5018197f5e100d7f09f1d15d2b6a6428d",
